@@ -1,0 +1,1 @@
+This is a page which uses DOM manipulation to dynamically render simple restaurant homepage.
